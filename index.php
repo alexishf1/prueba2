@@ -1,6 +1,11 @@
 <html>
 <head>
-titulo
+<title>titulo</title>
 </head>
-<body>ejemplo2</body>
+<body>ejemplo2
+<br>
+nuevo
+<hr>
+asd
+</body>
 </html>
