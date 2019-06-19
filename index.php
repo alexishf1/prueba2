@@ -1,4 +1,4 @@
 <html>
 <head></head>
-<body>ejemplo</body>
+<body>ejemplo2</body>
 </html>
